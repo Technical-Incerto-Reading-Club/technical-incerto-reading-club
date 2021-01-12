@@ -28,7 +28,7 @@ In general the following will be good practice:
 
 ## Code of Conduct
 
-This repository follows the [Contributor Code of Conduct](https://www.contributor-covenant.org/]). See `code_of_conduct.md` for details.
+This repository follows the [Contributor Code of Conduct](https://www.contributor-covenant.org/). See `code_of_conduct.md` for details.
 
 ## Disclaimer
 
