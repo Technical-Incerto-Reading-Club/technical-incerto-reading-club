@@ -26,6 +26,10 @@ In general the following will be good practice:
  - Avoid content that will go stale (references to future events...) unless absolutely necessary
  - If you're adding content about a talk or post, try to place it in its own page then link to it.
 
+## Code of Conduct
+
+This repository follows the [Contributor Code of Conduct](https://www.contributor-covenant.org/]). See `code_of_conduct.md` for details.
+
 ## Disclaimer
 
 We are not affiliated with Nassim Taleb and the activities of this group are performed in our own capacities and not in those of our employers or professional organizations. Note that no liability will be accepted as a result of attending these meetings.
